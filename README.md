@@ -13,3 +13,47 @@ Criar uma consulta ao banco de dados que retorne as informações relevantes do 
 ## Tarefa tecnica 03:
 Adicionar uma opção de filtro para que o cliente possa visualizar apenas os agendamentos marcados para um período específico (por exemplo, próximos 7 dias, próximas 2 semanas, próximo mês).
 
+
+# Roadmap:
+ Modelo Rice:
+
+
+### Tarefa tecnica 01:
+*   Funcionalidade: Implementar pagina de agendamentos
+*   Reach: 100
+*   Impact: 3
+*   Confidence: 1 (100%)
+*   Effort: 8 Story Points
+*   **REACH** 37,5
+
+### Tarefa tecnica 02:
+*   Funcionalidade: Consulta Banco de dados
+*   Reach: 100
+*   Impact: 2
+*   Confidence: 0.9 (90%)
+*   Effort: 5 Story Points
+*   **REACH** 36
+
+### Tarefa tecnica 03:
+*   Funcionalidade: Fitro de visualização
+*   Reach: 60
+*   Impact: 1
+*   Confidence: 0.8 (80%)
+*   Effort: 2 Story Points
+*   **REACH** 24
+
+
+## PRIORIDADE
+* 1º Tarefa Tecnica 01:
+    * Tempo de conclusão estimado: 9 dias
+* 2º Tarefa Tecnica 02:
+    * Tempo de conclusão estimado: 4 dias
+* 3º Tarefa Tecnica 03:
+    * Tempo de conclusão estimado: 12 horas
+
+
+
+
+
+
+
