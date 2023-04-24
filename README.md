@@ -43,5 +43,17 @@ Adicionar uma opção de filtro para que o cliente possa visualizar apenas os ag
 *   **REACH** 24
 
 
+## PRIORIDADE
+* 1º Tarefa Tecnica 01:
+    * Tempo de conclusão estimado: 9 dias
+* 2º Tarefa Tecnica 02:
+    * Tempo de conclusão estimado: 4 dias
+* 3º Tarefa Tecnica 03:
+    * Tempo de conclusão estimado: 12 horas
+
+
+
+
+
 
 
